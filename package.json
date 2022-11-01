@@ -4,12 +4,15 @@
   "description": "",
   "main": "checkTest.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
