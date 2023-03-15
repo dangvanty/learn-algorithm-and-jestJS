@@ -14,8 +14,8 @@ exports.cau1 = (accounts) => {
   return maxMoney
 }
 
-// ---------
-// Câu 2: cho số nguyên trả lại 1 mảng với điều kiện chia hết cho 3 thì 'fix'
+//-----------
+// Câu 2: cho số nguyên trả lại 1 mảng với điều kiện chia hết cho 3 thì 'fix' 
 //chia hết cho 5 thì 'bug' chia hết cho 3 và 5 thì 'fixbug
 // input number = 15
 // ouput : [1,2,'fix',4,'bug','fix',7,8,'fix','bug',11,'fix',13,14,'fixbug']
